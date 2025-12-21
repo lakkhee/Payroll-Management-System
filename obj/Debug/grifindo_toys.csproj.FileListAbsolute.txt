@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\bin\Debug\grifindo_toys.exe.config
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\bin\Debug\grifindo_toys.exe
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\bin\Debug\grifindo_toys.pdb
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.Form1.resources
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.Form2.resources
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.Form3.resources
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.Form4.resources
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.Properties.Resources.resources
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.exe
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.pdb
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.Form5.resources
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.Form6.resources
+C:\Users\HP\OneDrive - esoft.lk\pro\grifindo_toys\grifindo_toys\obj\Debug\grifindo_toys.Form7.resources
